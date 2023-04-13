@@ -1,0 +1,25 @@
+{
+  "name": "fluentui-lesson-1",
+  "description": "Simple 'Hello World' example.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dashkevych/fluentui-notes",
+  "private": true,
+  "author": {
+    "name" : "Taras Dashkevych",
+    "url" : "https://www.tarascodes.com/nextjs-fluentui-setup"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fluentui/react-components": "^9.18.6",
+    "eslint": "8.37.0",
+    "eslint-config-next": "13.2.4",
+    "next": "13.2.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
