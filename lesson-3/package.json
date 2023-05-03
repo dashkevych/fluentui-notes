@@ -1,0 +1,27 @@
+{
+  "name": "fluentui-lesson-3",
+  "description": "Example of creating newsletter.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dashkevych/fluentui-notes",
+  "private": true,
+  "author": {
+    "name": "Taras Dashkevych",
+    "url": "https://www.tarascodes.com/nextjs-fluentui-newsletter"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "clean": "rm -rf node_modules/ .next/ .git/"
+  },
+  "dependencies": {
+    "@fluentui/react-components": "^9.19.1",
+    "@mailerlite/mailerlite-nodejs": "^1.0.1",
+    "eslint": "8.39.0",
+    "eslint-config-next": "13.3.4",
+    "next": "13.3.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
