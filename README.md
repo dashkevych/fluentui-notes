@@ -2,7 +2,7 @@
 
 My notes on learning Next.js (React) with Fluent UI.
 
-**Notes covers:**
+**Notes cover:**
 
 * Lesson #1: Next.js & Fluent UI: Setup
 * Lesson #2: Next.js & Fluent UI: Theming
